@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/free5gc/fsm"
+	"github.com/omec-project/fsm"
 )
 
 const (
